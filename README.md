@@ -9,8 +9,10 @@
 </p>
 
 <p align="center">
-  Hi, I'm Kavya, a Computer Science student from India graduating in 2026.<br><br>
-  I approach things with an engineer's mindset, shaped by endless questions. Right now, I'm exploring the world of tech and AI. I don't have a single direction yet, but I find inspiration in science, space, and everything that sparks curiosity.
+  Hi, I'm Kavya—a Computer Science student from India graduating in 2026.<br><br>
+  🧠 <b>Mindset:</b> I approach problems as an engineer, driven by endless questions to understand how things work.<br>
+  🔭 <b>Exploring:</b> The intersections of software development, artificial intelligence, and emerging tech.<br>
+  🌌 <b>Inspiration:</b> Science, space, and the possibilities of the unknown.
 </p>
 
 <p align="center">

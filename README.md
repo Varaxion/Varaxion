@@ -8,22 +8,31 @@
   <img src="./assets/divider.svg" width="55%" alt="divider" />
 </p>
 
-<p align="center"><samp>
-  &gt; whoami<br>
-  &nbsp;&nbsp;Kavya (Varaxion) &middot; 21 &middot; India<br><br>
-  &gt; academia<br>
-  &nbsp;&nbsp;CSE at VIT Bhopal University &middot; Class of 2026<br><br>
-  &gt; active_projects[]<br>
-  &nbsp;&nbsp;<a href="https://github.com/varaxion/Unscroll">Unscroll</a> &middot; <a href="https://github.com/varaxion/BrowseTime">BrowseTime</a><br><br>
-  &gt; exploring[]<br>
-  &nbsp;&nbsp;design &middot; software engineering &middot; AI/ML<br><br>
-  &gt; interests[]<br>
-  &nbsp;&nbsp;mathematics &middot; sci-fi cinema &middot; fitness &middot; gaming &middot; philosophy<br><br>
-  &gt; core.md<br>
-  &nbsp;&nbsp;Engineer at heart. Designer by instinct.<br>
-  &nbsp;&nbsp;Obsessed with detail. Driven by curiosity.<br>
-  &nbsp;&nbsp;Always asking why before asking how.
-</samp></p>
+<p align="center">
+
+```
+> whoami
+  Kavya (Varaxion) · 21 · India
+
+> academia
+  CSE at VIT Bhopal University · Class of 2026
+
+> active_projects[]
+  Unscroll · BrowseTime
+
+> exploring[]
+  design · software engineering · AI/ML
+
+> interests[]
+  mathematics · sci-fi cinema · fitness · gaming · philosophy
+
+> core.md
+  Engineer at heart. Designer by instinct.
+  Obsessed with detail. Driven by curiosity.
+  Always asking why before asking how.
+```
+
+</p>
 
 <p align="center">
   <em>Connect with me</em><br><br>

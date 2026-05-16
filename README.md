@@ -8,13 +8,22 @@
   <img src="./assets/divider.svg" width="55%" alt="divider" />
 </p>
 
-<p align="center">
-  Hi, I'm Kavya (Varaxion). I'm 21 and pursuing my Computer Science and Engineering degree in India (Class of 2026).<br><br>
-  🧠 <b>Mindset:</b> I approach problems as an engineer, driven by endless questions to understand how things work.<br>
-  🎨 <b>Design:</b> Deeply passionate about aesthetics, user experience, and crafting beautiful digital interfaces.<br>
-  🔭 <b>Exploring:</b> The intersections of software development, artificial intelligence, and emerging tech.<br>
-  🌌 <b>Inspiration:</b> Science, space, and the possibilities of the unknown.
-</p>
+<p align="center"><samp>
+  &gt; whoami<br>
+  &nbsp;&nbsp;Kavya (Varaxion) &middot; 21 &middot; India<br><br>
+  &gt; academia<br>
+  &nbsp;&nbsp;CSE at VIT Bhopal University &middot; Class of 2026<br><br>
+  &gt; active_projects[]<br>
+  &nbsp;&nbsp;<a href="https://github.com/varaxion/Unscroll">Unscroll</a> &middot; <a href="https://github.com/varaxion/BrowseTime">BrowseTime</a><br><br>
+  &gt; exploring[]<br>
+  &nbsp;&nbsp;design &middot; software engineering &middot; AI/ML<br><br>
+  &gt; interests[]<br>
+  &nbsp;&nbsp;mathematics &middot; sci-fi cinema &middot; fitness &middot; gaming &middot; philosophy<br><br>
+  &gt; core.md<br>
+  &nbsp;&nbsp;Engineer at heart. Designer by instinct.<br>
+  &nbsp;&nbsp;Obsessed with detail. Driven by curiosity.<br>
+  &nbsp;&nbsp;Always asking why before asking how.
+</samp></p>
 
 <p align="center">
   <em>Connect with me</em><br><br>
@@ -61,16 +70,7 @@
   <a href="https://github.com/varaxion"><img src="https://github-readme-activity-graph.vercel.app/graph?username=varaxion&custom_title=Contribution%20Graph&hide_border=true&area=true&bg_color=00000000&color=c9d1d9&line=979cfb&point=ff3b5c" alt="Activity Graph" /></a>
 </p>
 
-<p align="center">
-  <img src="./assets/divider.svg" width="55%" alt="divider" />
-</p>
 
-<p align="center">
-  <em>Currently building</em><br><br>
-  <a href="https://github.com/varaxion/Unscroll"><img src="https://github-readme-stats.vercel.app/api/pin/?username=varaxion&repo=Unscroll&bg_color=00000000&title_color=ff3b5c&text_color=c9d1d9&icon_color=00d2ff&border_color=979cfb&description_lines_count=2&v=1" alt="Unscroll" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/varaxion/BrowseTime"><img src="https://github-readme-stats.vercel.app/api/pin/?username=varaxion&repo=BrowseTime&bg_color=00000000&title_color=00d2ff&text_color=c9d1d9&icon_color=ff3b5c&border_color=979cfb&description_lines_count=2&v=1" alt="BrowseTime" /></a>
-</p>
 
 <p align="center">
   <a href="https://github.com/varaxion"><img src="https://komarev.com/ghpvc/?username=varaxion&color=ff3b5c&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" /></a>

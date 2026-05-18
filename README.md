@@ -53,10 +53,12 @@
   <em>Worked with</em><br><br>
   <a href="https://www.python.org/"><img src="https://cdn.simpleicons.org/python/00d2ff" width="30" alt="Python" /></a> &nbsp;
   <a href="https://isocpp.org/"><img src="https://cdn.simpleicons.org/cplusplus/00d2ff" width="30" alt="C++" /></a> &nbsp;
+  <a href="https://www.oracle.com/java/"><img src="https://cdn.simpleicons.org/java/00d2ff" width="30" alt="Java" /></a> &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.simpleicons.org/javascript/00d2ff" width="30" alt="JavaScript" /></a> &nbsp;
   <a href="https://react.dev/"><img src="https://cdn.simpleicons.org/react/00d2ff" width="30" alt="React" /></a> &nbsp;
   <a href="https://pytorch.org/"><img src="https://cdn.simpleicons.org/pytorch/00d2ff" width="30" alt="PyTorch" /></a> &nbsp;
   <a href="https://www.docker.com/"><img src="https://cdn.simpleicons.org/docker/00d2ff" width="30" alt="Docker" /></a> &nbsp;
+  <a href="https://vercel.com/"><img src="https://cdn.simpleicons.org/vercel/00d2ff" width="30" alt="Vercel" /></a> &nbsp;
   <a href="https://git-scm.com/"><img src="https://cdn.simpleicons.org/git/00d2ff" width="30" alt="Git" /></a>
 </p>
 

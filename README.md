@@ -49,6 +49,8 @@
   <img src="./assets/divider.svg" width="55%" alt="divider" />
 </p>
 
+<p align="center"><em>Worked with</em></p>
+
 <table align="center" border="0" cellpadding="10">
   <tr>
     <td align="center" valign="top">
@@ -67,8 +69,7 @@
       <a href="https://nodejs.org/"><img src="./assets/tech/nodejs.svg" width="28" alt="Node.js" /></a> &nbsp;
       <a href="https://expressjs.com/"><img src="./assets/tech/express.svg" width="28" alt="Express" /></a> &nbsp;
       <a href="https://flutter.dev/"><img src="./assets/tech/flutter.svg" width="28" alt="Flutter" /></a> &nbsp;
-      <a href="https://pytorch.org/"><img src="./assets/tech/pytorch.svg" width="28" alt="PyTorch" /></a> &nbsp;
-      <a href="https://colab.research.google.com/"><img src="./assets/tech/googlecolab.svg" width="28" alt="Google Colab" /></a>
+      <a href="https://pytorch.org/"><img src="./assets/tech/pytorch.svg" width="28" alt="PyTorch" /></a>
     </td>
   </tr>
   <tr>
@@ -82,7 +83,8 @@
       <sub>Tools</sub><br><br>
       <a href="https://www.docker.com/"><img src="./assets/tech/docker.svg" width="28" alt="Docker" /></a> &nbsp;
       <a href="https://vercel.com/"><img src="./assets/tech/vercel.svg" width="28" alt="Vercel" /></a> &nbsp;
-      <a href="https://git-scm.com/"><img src="./assets/tech/git.svg" width="28" alt="Git" /></a>
+      <a href="https://git-scm.com/"><img src="./assets/tech/git.svg" width="28" alt="Git" /></a> &nbsp;
+      <a href="https://colab.research.google.com/"><img src="./assets/tech/googlecolab.svg" width="28" alt="Google Colab" /></a>
     </td>
   </tr>
 </table>

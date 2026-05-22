@@ -96,18 +96,18 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/varaxion"><img src="https://github-profile-trophy.vercel.app/?username=varaxion&no-bg=true&no-frame=true&margin-w=15&title=ff3b5c&text=c9d1d9" alt="Trophies" /></a>
+  <a href="https://github.com/Varaxion"><img src="https://github-profile-trophy.vercel.app/?username=Varaxion&no-bg=true&no-frame=true&margin-w=15&title=ff3b5c&text=c9d1d9" alt="Trophies" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/varaxion"><img src="https://github-readme-stats-varaxion.vercel.app/api?username=varaxion&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&title_color=ff3b5c&text_color=c9d1d9&icon_color=00d2ff&include_all_commits=true&count_private=true" alt="GitHub Stats" /></a>
-  <a href="https://github.com/varaxion"><img src="https://github-readme-stats-varaxion.vercel.app/api/top-langs/?username=varaxion&layout=donut&hide_title=true&hide_border=true&bg_color=00000000&title_color=00d2ff&text_color=c9d1d9&langs_count=10&count_private=true" alt="Top Languages" /></a>
+  <a href="https://github.com/Varaxion"><img src="https://github-readme-stats-varaxion.vercel.app/api?username=Varaxion&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&title_color=ff3b5c&text_color=c9d1d9&icon_color=00d2ff&include_all_commits=true&count_private=true" alt="GitHub Stats" /></a>
+  <a href="https://github.com/Varaxion"><img src="https://github-readme-stats-varaxion.vercel.app/api/top-langs/?username=Varaxion&layout=donut&hide_title=true&hide_border=true&bg_color=00000000&title_color=00d2ff&text_color=c9d1d9&langs_count=10&count_private=true" alt="Top Languages" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/varaxion"><img src="https://streak-stats.demolab.com/?user=varaxion&hide_border=true&background=00000000&ring=ff3b5c&fire=ff3b5c&currStreakNum=00d2ff&sideNums=979cfb&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" /></a>
+  <a href="https://github.com/Varaxion"><img src="https://streak-stats.demolab.com/?user=Varaxion&hide_border=true&background=00000000&ring=ff3b5c&fire=ff3b5c&currStreakNum=00d2ff&sideNums=979cfb&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/varaxion"><img src="https://github-readme-activity-graph.vercel.app/graph?username=varaxion&custom_title=Contribution%20Graph&hide_border=true&area=true&bg_color=00000000&color=c9d1d9&line=979cfb&point=ff3b5c" alt="Activity Graph" /></a>
+  <a href="https://github.com/Varaxion"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Varaxion&custom_title=Contribution%20Graph&hide_border=true&area=true&bg_color=00000000&color=c9d1d9&line=979cfb&point=ff3b5c" alt="Activity Graph" /></a>
 </p>
 
 <p align="center">
@@ -116,11 +116,11 @@
 
 <p align="center">
   <em>Active projects</em><br><br>
-  <a href="https://github.com/varaxion/Unscroll"><img src="https://github-readme-stats-varaxion.vercel.app/api/pin/?username=varaxion&repo=Unscroll&bg_color=00000000&title_color=ff3b5c&text_color=c9d1d9&icon_color=00d2ff&border_color=979cfb&description_lines_count=2&v=2" alt="Unscroll" /></a>
+  <a href="https://github.com/Varaxion/Unscroll"><img src="https://github-readme-stats-varaxion.vercel.app/api/pin/?username=Varaxion&repo=Unscroll&bg_color=00000000&title_color=ff3b5c&text_color=c9d1d9&icon_color=00d2ff&border_color=979cfb&description_lines_count=2&v=2" alt="Unscroll" /></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/varaxion/BrowseTime"><img src="https://github-readme-stats-varaxion.vercel.app/api/pin/?username=varaxion&repo=BrowseTime&bg_color=00000000&title_color=00d2ff&text_color=c9d1d9&icon_color=ff3b5c&border_color=979cfb&description_lines_count=2&v=2" alt="BrowseTime" /></a>
+  <a href="https://github.com/Varaxion/BrowseTime"><img src="https://github-readme-stats-varaxion.vercel.app/api/pin/?username=Varaxion&repo=BrowseTime&bg_color=00000000&title_color=00d2ff&text_color=c9d1d9&icon_color=ff3b5c&border_color=979cfb&description_lines_count=2&v=2" alt="BrowseTime" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/varaxion"><img src="https://komarev.com/ghpvc/?username=varaxion&color=ff3b5c&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" /></a>
+  <a href="https://github.com/Varaxion"><img src="https://komarev.com/ghpvc/?username=Varaxion&color=ff3b5c&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" /></a>
 </p>

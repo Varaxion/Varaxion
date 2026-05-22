@@ -7,12 +7,27 @@
     </linearGradient>
   </defs>
   <style>
-    .typing {
-      animation: type 5s steps(8, end) infinite;
-      overflow: hidden;
-    }
+    .char { opacity: 0; }
+    .c1 { animation: c1 5s infinite; }
+    .c2 { animation: c2 5s infinite; }
+    .c3 { animation: c3 5s infinite; }
+    .c4 { animation: c4 5s infinite; }
+    .c5 { animation: c5 5s infinite; }
+    .c6 { animation: c6 5s infinite; }
+    .c7 { animation: c7 5s infinite; }
+    .c8 { animation: c8 5s infinite; }
+
+    @keyframes c1 { 0%, 5% { opacity: 0; } 6%, 80% { opacity: 1; } 81%, 100% { opacity: 0; } }
+    @keyframes c2 { 0%, 11% { opacity: 0; } 12%, 80% { opacity: 1; } 81%, 100% { opacity: 0; } }
+    @keyframes c3 { 0%, 17% { opacity: 0; } 18%, 80% { opacity: 1; } 81%, 100% { opacity: 0; } }
+    @keyframes c4 { 0%, 23% { opacity: 0; } 24%, 80% { opacity: 1; } 81%, 100% { opacity: 0; } }
+    @keyframes c5 { 0%, 29% { opacity: 0; } 30%, 80% { opacity: 1; } 81%, 100% { opacity: 0; } }
+    @keyframes c6 { 0%, 35% { opacity: 0; } 36%, 80% { opacity: 1; } 81%, 100% { opacity: 0; } }
+    @keyframes c7 { 0%, 41% { opacity: 0; } 42%, 80% { opacity: 1; } 81%, 100% { opacity: 0; } }
+    @keyframes c8 { 0%, 47% { opacity: 0; } 48%, 80% { opacity: 1; } 81%, 100% { opacity: 0; } }
+
     .cursor-box {
-      animation: slide 5s steps(8, end) infinite;
+      animation: slide 5s infinite;
     }
     .cursor-blink {
       font-family: monospace;
@@ -21,26 +36,30 @@
       fill: #ff3b5c;
       animation: blink 0.8s step-end infinite;
     }
-    @keyframes type {
-      0%, 10% { width: 0px; }
-      40%, 80% { width: 225px; }
-      90%, 100% { width: 0px; }
-    }
+
     @keyframes slide {
-      0%, 10% { transform: translateX(0px); }
-      40%, 80% { transform: translateX(225px); }
-      90%, 100% { transform: translateX(0px); }
+      0%, 5% { transform: translateX(0px); }
+      6%, 11% { transform: translateX(27.5px); }
+      12%, 17% { transform: translateX(55px); }
+      18%, 23% { transform: translateX(82.5px); }
+      24%, 29% { transform: translateX(110px); }
+      30%, 35% { transform: translateX(137.5px); }
+      36%, 41% { transform: translateX(165px); }
+      42%, 47% { transform: translateX(192.5px); }
+      48%, 80% { transform: translateX(220px); }
+      81%, 100% { transform: translateX(0px); }
     }
+
     @keyframes blink {
       0%, 100% { opacity: 1; }
       50% { opacity: 0; }
     }
   </style>
-  
-  <svg x="90" y="0" height="60" class="typing">
-    <text x="0" y="50%" dominant-baseline="middle" text-anchor="start" font-family="monospace" font-size="44px" font-weight="bold" fill="url(#textGrad)" textLength="220" lengthAdjust="spacing">Varaxion</text>
-  </svg>
-  
+
+  <text x="90" y="50%" dominant-baseline="middle" text-anchor="start" font-family="monospace" font-size="44px" font-weight="bold" fill="url(#textGrad)" textLength="220" lengthAdjust="spacing">
+    <tspan class="char c1">V</tspan><tspan class="char c2">a</tspan><tspan class="char c3">r</tspan><tspan class="char c4">a</tspan><tspan class="char c5">x</tspan><tspan class="char c6">i</tspan><tspan class="char c7">o</tspan><tspan class="char c8">n</tspan>
+  </text>
+
   <g class="cursor-box">
     <text x="90" y="50%" dominant-baseline="middle" text-anchor="start" class="cursor-blink">_</text>
   </g>

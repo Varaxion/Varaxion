@@ -1,3 +1,7 @@
+<p align="right">
+  <a href="https://github.com/Varaxion"><img src="https://komarev.com/ghpvc/?username=Varaxion&color=ff3b5c&style=for-the-badge&label=VIEWS" alt="Profile Views" /></a>
+</p>
+
 <h1 align="center"><img src="./assets/title.svg" alt="Varaxion" /></h1>
 
 <p align="center">
@@ -121,6 +125,4 @@
   <a href="https://github.com/Varaxion/BrowseTime"><img src="https://github-readme-stats-varaxion.vercel.app/api/pin/?username=Varaxion&repo=BrowseTime&bg_color=00000000&title_color=00d2ff&text_color=c9d1d9&icon_color=ff3b5c&border_color=979cfb&description_lines_count=2&v=2" alt="BrowseTime" /></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Varaxion"><img src="https://komarev.com/ghpvc/?username=Varaxion&color=ff3b5c&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" /></a>
 </p>

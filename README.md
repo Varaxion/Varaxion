@@ -2,7 +2,7 @@
   <a href="https://github.com/Varaxion"><img src="https://komarev.com/ghpvc/?username=Varaxion&color=ff3b5c&style=for-the-badge&label=VIEWS" alt="Profile Views" /></a>
 </p>
 
-<h1 align="center"><img src="./assets/title.svg" alt="Varaxion" /></h1>
+<h1 align="center"><img src="./assets/title.gif" alt="Varaxion" /></h1>
 
 <p align="center">
   <em>Driven by curiosity, from silicon to the stars 🚀</em>

@@ -40,7 +40,7 @@
 
 <p align="center">
   <em>Connect with me</em><br><br>
-  <a href="https://github.com/Varaxion"><img src="./assets/tech/github.svg" width="28" alt="GitHub" /></a>
+  <a href="https://github.com/Varaxion"><img src="./assets/socials/github.svg" width="28" alt="GitHub" /></a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/kavyakapri"><img src="./assets/socials/linkedin.svg" width="28" alt="LinkedIn" /></a>
   &nbsp;&nbsp;

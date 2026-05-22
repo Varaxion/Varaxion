@@ -101,7 +101,7 @@
 
 <p align="center">
   <a href="https://github.com/varaxion"><img src="https://github-readme-stats-varaxion.vercel.app/api?username=varaxion&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&title_color=ff3b5c&text_color=c9d1d9&icon_color=00d2ff&include_all_commits=true&count_private=true" alt="GitHub Stats" /></a>
-  <a href="https://github.com/varaxion"><img src="https://github-readme-stats-varaxion.vercel.app/api/top-langs/?username=varaxion&layout=donut&hide_title=true&hide_border=true&bg_color=00000000&title_color=00d2ff&text_color=c9d1d9" alt="Top Languages" /></a>
+  <a href="https://github.com/varaxion"><img src="https://github-readme-stats-varaxion.vercel.app/api/top-langs/?username=varaxion&layout=donut&hide_title=true&hide_border=true&bg_color=00000000&title_color=00d2ff&text_color=c9d1d9&langs_count=10&count_private=true" alt="Top Languages" /></a>
 </p>
 <p align="center">
   <a href="https://github.com/varaxion"><img src="https://streak-stats.demolab.com/?user=varaxion&hide_border=true&background=00000000&ring=ff3b5c&fire=ff3b5c&currStreakNum=00d2ff&sideNums=979cfb&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" /></a>

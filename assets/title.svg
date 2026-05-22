@@ -5,23 +5,35 @@
       <stop offset="50%" style="stop-color:#979cfb;stop-opacity:1" />
       <stop offset="100%" style="stop-color:#00d2ff;stop-opacity:1" />
     </linearGradient>
+    <clipPath id="typing">
+      <rect x="90" y="0" height="60">
+        <animate attributeName="width" values="0; 225; 225; 0; 0" keyTimes="0; 0.4; 0.8; 0.9; 1" dur="5s" repeatCount="indefinite" />
+      </rect>
+    </clipPath>
   </defs>
   <style>
-    text {
+    .text-grad {
       font-family: monospace;
       font-size: 44px;
       font-weight: bold;
       fill: url(#textGrad);
-      letter-spacing: 2px;
     }
     .cursor {
+      font-family: monospace;
+      font-size: 44px;
+      font-weight: bold;
       fill: #ff3b5c;
-      animation: blink 1s step-end infinite;
+      animation: blink 0.8s step-end infinite;
     }
     @keyframes blink {
       0%, 100% { opacity: 1; }
       50% { opacity: 0; }
     }
   </style>
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle">Varaxion<tspan class="cursor">_</tspan></text>
+  
+  <text x="90" y="50%" dominant-baseline="middle" text-anchor="start" class="text-grad" clip-path="url(#typing)" textLength="220" lengthAdjust="spacing">Varaxion</text>
+  
+  <text y="50%" dominant-baseline="middle" text-anchor="start" class="cursor">_
+    <animate attributeName="x" values="90; 315; 315; 90; 90" keyTimes="0; 0.4; 0.8; 0.9; 1" dur="5s" repeatCount="indefinite" />
+  </text>
 </svg>

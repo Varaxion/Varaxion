@@ -14,30 +14,7 @@
 
 <p align="center">
 
-```
-> whoami
-  Kavya (Varaxion) · 21 · India
-
-> academia
-  B.Tech. CSE @ VIT Bhopal University · 2022-2026
-
-> drive
-  embracing the craft · turning ideas into reality
-
-> active_projects[]
-  Unscroll · BrowseTime
-
-> exploring[]
-  design · software engineering · AI/ML
-
-> interests[]
-  mathematics · sci-fi cinema · fitness · gaming · philosophy
-
-> core.md
-  Engineer at heart. Designer by instinct.
-  Obsessed with detail. Driven by curiosity.
-  Always asking why before asking how.
-```
+<img src="./assets/terminal.svg" width="100%" alt="Terminal Bio" />
 
 </p>
 

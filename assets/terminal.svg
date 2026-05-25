@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620">
+  <rect x="0" y="0" width="800" height="620" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  
+  <!-- Mac Window Controls -->
+  <circle cx="24" cy="24" r="6" fill="#ff5f56" />
+  <circle cx="44" cy="24" r="6" fill="#ffbd2e" />
+  <circle cx="64" cy="24" r="6" fill="#27c93f" />
+
+  <text x="400" y="28" fill="#8b949e" font-family="'Courier New', Consolas, monospace" font-size="14" font-weight="bold" text-anchor="middle">guest@varaxion:~</text>
+
+  <g font-family="'Fira Code', 'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="15" fill="#c9d1d9">
+    
+    <!-- whoami -->
+    <text x="30" y="80">
+      <tspan fill="#ff3b5c" font-weight="bold">&gt; </tspan>
+      <tspan fill="#00d2ff" font-weight="bold">whoami</tspan>
+    </text>
+    <text x="30" y="104">  Kavya (Varaxion) · 21 · India</text>
+
+    <!-- academia -->
+    <text x="30" y="144">
+      <tspan fill="#ff3b5c" font-weight="bold">&gt; </tspan>
+      <tspan fill="#00d2ff" font-weight="bold">academia</tspan>
+    </text>
+    <text x="30" y="168">  B.Tech. CSE @ VIT Bhopal University · 2022-2026</text>
+
+    <!-- drive -->
+    <text x="30" y="208">
+      <tspan fill="#ff3b5c" font-weight="bold">&gt; </tspan>
+      <tspan fill="#00d2ff" font-weight="bold">drive</tspan>
+    </text>
+    <text x="30" y="232">  embracing the craft · turning ideas into reality</text>
+
+    <!-- active_projects -->
+    <text x="30" y="272">
+      <tspan fill="#ff3b5c" font-weight="bold">&gt; </tspan>
+      <tspan fill="#00d2ff" font-weight="bold">active_projects[]</tspan>
+    </text>
+    <text x="30" y="296">  Unscroll · BrowseTime</text>
+
+    <!-- exploring -->
+    <text x="30" y="336">
+      <tspan fill="#ff3b5c" font-weight="bold">&gt; </tspan>
+      <tspan fill="#00d2ff" font-weight="bold">exploring[]</tspan>
+    </text>
+    <text x="30" y="360">  design · software engineering · AI/ML</text>
+
+    <!-- interests -->
+    <text x="30" y="400">
+      <tspan fill="#ff3b5c" font-weight="bold">&gt; </tspan>
+      <tspan fill="#00d2ff" font-weight="bold">interests[]</tspan>
+    </text>
+    <text x="30" y="424">  mathematics · sci-fi cinema · fitness · gaming · philosophy</text>
+
+    <!-- core.md -->
+    <text x="30" y="464">
+      <tspan fill="#ff3b5c" font-weight="bold">&gt; </tspan>
+      <tspan fill="#00d2ff" font-weight="bold">cat core.md</tspan>
+    </text>
+    <text x="30" y="488">  Engineer at heart. Designer by instinct.</text>
+    <text x="30" y="512">  Obsessed with detail. Driven by curiosity.</text>
+    <text x="30" y="536">  Always asking why before asking how.</text>
+    
+    <!-- Blinking cursor -->
+    <text x="30" y="576">
+      <tspan fill="#ff3b5c" font-weight="bold">&gt; </tspan>
+      <tspan fill="#979cfb" font-weight="bold" class="cursor">█</tspan>
+    </text>
+  </g>
+
+  <style>
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+    .cursor {
+      animation: blink 1s step-end infinite;
+    }
+  </style>
+</svg>

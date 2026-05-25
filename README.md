@@ -19,7 +19,10 @@
   Kavya (Varaxion) · 21 · India
 
 > academia
-  CSE at VIT Bhopal University · Class of 2026
+  B.Tech. CSE @ VIT Bhopal University · 2022-2026
+
+> drive
+  embracing the craft · turning ideas into reality
 
 > active_projects[]
   Unscroll · BrowseTime
